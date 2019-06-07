@@ -1,0 +1,51 @@
+body {
+
+margin: 0;
+padding: 0;
+}
+
+.container-one {
+    height: 200px;
+    width: 100%;
+    background: rgb(192, 175, 153);
+}
+.square-one {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background: rgb(38, 145, 211);
+    margin: 25px;
+
+}
+
+.container-two {
+    height: 200px;
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+    font-size: 25px;
+}
+
+.container-three {
+    height: 136px;
+    width: 100%;
+    background: rgb(38, 145, 211)
+}
+
+.container-four {
+    height: 136px;
+    width: 100%;
+    background: aqua;
+}
+
+.container-five {
+    height: 136px;
+    width: 100%;
+    background: rgb(179, 202, 135);
+}
+
+.container-six {
+    height: 136px;
+    width: 100%;
+    background: yellow;
+}
